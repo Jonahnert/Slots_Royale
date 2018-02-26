@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Lobby/Scripts/Lobby/LobbyManager.cs">
+    <Files>
+      <File FileName="assets/Scripts/AggroManager.cs" Line="61" Column="1" />
+      <File FileName="assets/Scripts/Unit.cs" Line="55" Column="1" />
+      <File FileName="assets/Scripts/CustomNetworkManager.cs" Line="7" Column="1" />
+      <File FileName="assets/Lobby/Scripts/Lobby/LobbyManager.cs" Line="416" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="61" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="63" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="76" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="71" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="87" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/AggroManager.cs" line="82" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/Unit.cs" line="55" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/Unit.cs" line="59" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Scripts/Unit.cs" line="61" column="1" />
+      <Breakpoint file="/Users/ryan/Documents/Unity Projects/Match_3_City/assets/Lobby/Scripts/Lobby/LobbyManager.cs" line="355" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
